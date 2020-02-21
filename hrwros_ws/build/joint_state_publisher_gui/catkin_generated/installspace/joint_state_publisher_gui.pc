@@ -1,0 +1,8 @@
+prefix=/home/franchupedu/hrwros_ws/install
+
+Name: joint_state_publisher_gui
+Description: Description of joint_state_publisher_gui
+Version: 1.12.14
+Cflags: 
+Libs: -L/home/franchupedu/hrwros_ws/install/lib 
+Requires: 
