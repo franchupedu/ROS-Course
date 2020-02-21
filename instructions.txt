@@ -1,11 +1,5 @@
 sudo apt-get install singularity-container
 
-download from this link https://surfdrive.surf.nl/files/index.php/s/pp59nr2PLr2QGNg/download
-
-md5sum hrwros-09.simg
-
->> cbb042949c0a3b797804ad9606dbaac8
-
 bash install-hrwros-starter.sh
 
 singularity selftest
